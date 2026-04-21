@@ -1,0 +1,11 @@
+{
+ "firstName":"Secret",
+ "lastName":"Secret",
+ "dob":"2004-11-04",
+ "course":"BSIT",
+ "major":"business analytics",
+ "status":"active",
+ "address":"Balayan City",
+ "email":"testmuna@gmail.com",
+ "password":"123456"
+}
